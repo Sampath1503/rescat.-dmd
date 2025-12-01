@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+*.joblib
+*.pkl
+*.zip
+.DS_Store
